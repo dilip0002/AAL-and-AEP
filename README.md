@@ -23,7 +23,7 @@ The __csv_files__, __shps__, and __Turkey_wse_rasters_Slop__ contains the input 
     2. ddf_struct.xlsx: It stores the DDF curves for structure of the building.
     3. event_weights_TurkeyCreek.csv: It has the probability weights of all the events modeled (i.e., 96 different probability weights for 96 events in our case)
   ```
- There is a "reference" folder which contains other csv/excel files from FEMA HAZUS's FAST. The files within reference folder were used to determine "ddf_contents.xlsx" and "ddf_struct.xlsx". 
+  There is a "reference" folder which contains other csv/excel files from FEMA HAZUS's FAST. The files within reference folder were used to determine "ddf_contents.xlsx" and "ddf_struct.xlsx". 
 ---
 - __shps__: It should have the shapefile of that contains the building data and all its required attributes.
   
