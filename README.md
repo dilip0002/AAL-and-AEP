@@ -18,11 +18,9 @@ This script, at this point of time, includes the calculation only for Turkey Cre
 ## __Folder Structure and Contents__
 The __csv_files__, __shps__, and __Turkey_wse_rasters_Slop__ contains the input data that are required for this script to run.
 - __csv_files__: It should contain all the csv/excel files that are supplied as input to the scripts. The excel/csv files under this folder should contain the following files:
-            ```
-                      1. ddf_contents.xlsx: It stores the Depth-Damage Function (DDF) curves for contents within the building.
-                      2. ddf_struct.xlsx: It stores the DDF curves for structure of the building.
-            
-
+  	```
+   		1. ddf_contents.xlsx: It stores the Depth-Damage Function (DDF) curves for contents within the building.
+   ```
 - __shps__: It should have the shapefile of that contains the building data and all its required attributes.
   
     1. There are two folder within this folder: __point_shp__ and __polygon_shp__.
